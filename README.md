@@ -1,1 +1,5 @@
-# file-renamer
+# FILE RENAMER
+
+### Author: Samuel Larico
+
+## Description
